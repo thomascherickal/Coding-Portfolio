@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.condaPath": "C:\\ProgramData\\Anaconda3",
+    "python.pythonPath":"C:\\ProgramData\\Anaconda3",
+    "python.terminal.executeInFileDir": true,
+    "python.terminal.activateEnvironment": false
+}
